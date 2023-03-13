@@ -2,6 +2,7 @@ package LoggingFramework;
 
 public class DebugLogger extends AbstractLogger {
 
+
     public DebugLogger(int logLevel) {
         this.logLevel = logLevel;
     }
